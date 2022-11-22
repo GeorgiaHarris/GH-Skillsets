@@ -22,14 +22,13 @@ My skillsets operate on the logic that good things come in three's. The three ar
 - <b>Mandarin Chinese</b>
 
 <h2>Some Backstory:</h2>
-An analyst is not the path I would have imagined for myself five yeara ago. At the time, I was doing freelance work here and there as a digital artist specializing in character design. I thought that my world was entirely seperate from that of anyone who dealt with code. I honed my eye for design and my communication skills further with every client who commissioned me. By the time I was ready to start considering a major, a few close family friends who were analysts advised me not to treat art and analysis as two seperate paths, but as two sides of the same coin. That shift in perspective defined my path going forward.
-<br />
-<br />
-I graduated from Birmingham's Indian Springs School in 2019 with a 3.56 GPA. With the help of a family friend who happened to be an Alumn, I was pointed towards the University of Denver's BIA program. The more I was asked to visualize the data I was working with, the more I found my creative background setting my work apart from that of my peers. For every certification I earned as I moved through my core courses, I found another area to apply my penchant for storytelling to. Every class I was in required group work, which inevitably required presentation and public speaking skills. Working at the University of Denver's bookstore at the same time I was taking classes there taught me even more about how to work efficiently in a team, how to be adaptable to whichever project I was given, and how to find creative solutions to efficiency issues in the bookstore's day to day operations. 
-<br />
+ An analyst is not the path I would have imagined for myself five yeara ago. At the time, I was doing freelance work here and there as a digital artist specializing in character design. I thought that my world was entirely seperate from that of anyone who dealt with code. I honed my eye for design and my communication skills further with every client who commissioned me. By the time I was ready to start considering a major, a few close family friends who were analysts advised me not to treat art and analysis as two seperate paths, but as two sides of the same coin. That shift in perspective defined my path going forward.
 
-Of course, my time at the University of Denver has given me no shortage of projects that I'm proud to present, but like I said, technical skills are only a third of the battle. Adaptability, collaboration, creativity, and taking communication a step further into storytelling are the skills that I am most proud of regardless of which projects or tasks I may pursue. 
+ I graduated from Birmingham's Indian Springs School in 2019 with a 3.56 GPA. With the help of a family friend who happened to be an Alumn, I was pointed towards the University of Denver's BIA program. The more I was asked to visualize the data I was working with, the more I found my creative background setting my work apart from that of my peers. For every certification I earned as I moved through my core courses, I found another area to apply my penchant for storytelling to. Every class I was in required group work, which inevitably required presentation and public speaking skills. Working at the University of Denver's bookstore at the same time I was taking classes there taught me even more about how to work efficiently in a team, how to be adaptable to whichever project I was given, and how to find creative solutions to efficiency issues in the bookstore's day to day operations. 
 
+
+ Of course, my time at the University of Denver has given me no shortage of projects that I'm proud to present, but like I said, technical skills are only a third of the battle. Adaptability, collaboration, creativity, and taking communication a step further into storytelling are the skills that I am most proud of regardless of which projects or tasks I may pursue. 
+<br />
 
 </p>
 
